@@ -1,0 +1,14 @@
+s="I Am Strong"
+rev=s[::-1]
+print(rev)
+words=rev.split()
+print(words)
+for i in words:
+    print(len(i),i)
+
+
+gnortS mA I
+['gnortS', 'mA', 'I']
+6 gnortS
+2 mA
+1 I
