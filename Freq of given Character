@@ -1,0 +1,13 @@
+s="Programming"
+c=input()
+print(s.count(c))
+
+or
+
+s="Programming"
+count=0
+char="m"
+for i in s:
+    if i==char:
+        count+=1
+print(count)  
