@@ -6,3 +6,4 @@ for i in s:
 print(sum)    
 
 output=7
+
